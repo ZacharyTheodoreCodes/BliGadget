@@ -1,0 +1,86 @@
+{
+  "customer": [
+    {
+      "name": "user1",
+      "email": "user1@gmail.com",
+      "password": "password123",
+      "phoneNumber": "0812"
+    }
+  ],
+  "store": [
+    {
+      "name": "BliGadget Bintaro",
+      "address": "Jl.Bintaro",
+      "city": "Bandung",
+      "phoneNumber": "081234567",
+      "latitude": -6.2811941,
+      "longitude": 106.713111
+    },
+    {
+      "name": "BliGadget Kemang",
+      "address": "Jl.Kemang",
+      "city": "Jakarta Selatan",
+      "phoneNumber": "0812",
+      "latitude": -6.2303611,
+      "longitude": 106.8067778
+    },
+    {
+      "name": "BliGadget Sudirman",
+      "address": "Jl.Sudirman",
+      "city": "Jakarta Pusat",
+      "phoneNumber": "0812",
+      "latitude": -6.227777,
+      "longitude": 106.810544
+    }
+  ],
+  "gadget": [
+    {
+      "name": "Iphone 14",
+      "imgUrl": "https://cdn.eraspace.com/media/catalog/product/i/p/iphone_14_purple_1.jpg",
+      "price": 10000000,
+      "description": "This is a Iphone 14",
+      "specification": "True Tone \n ChipA17 Pro \n Full LED Headlights with LED DRL \n Warna luas (P3) \n Rasio kontras 2.000.000:1 \n Kecerahan maks 800 nit  \n Lapisan oleophobic anti sidik jari",
+      "type": "Smartphone"
+    },
+    {
+      "name": "Ipad Air 9",
+      "imgUrl": "https://cdn.eraspace.com/media/catalog/product/m/k/mk2l3paa0_1_2.jpg",
+      "price": 11000000,
+      "description": "This is an ipad air",
+      "specification": "4 GB memori terintegrasi \n 128 Storage \n Full LED Headlights with LED DRL \n Warna luas (P3) \n Rasio kontras 2.000.000:1 \n Kecerahan maks 800 nit  \n Lapisan oleophobic anti sidik jari",
+      "type": "Tablet"
+    },
+    {
+      "name": "Apple Smart Watch Grey",
+      "imgUrl": "https://cdn.eraspace.com/media/catalog/product/a/p/apple_watch_se_40mm_space_grey_1.jpg",
+      "price": 12000000,
+      "description": "This is a Smart Watch",
+      "specification": "S7 dengan prosesor dual-core 64 bit \n Kabel Pengisian Daya Cepat Magnetik USB-C \n Penutup berbahan aluminium 100% daur ulang \n Warna luas (P3) \n Rasio kontras 2.000.000:1",
+      "type": "Smartwatch"
+    },
+    {
+      "name": "Ipad Pro",
+      "imgUrl": "https://cdn.eraspace.com/media/catalog/product/i/p/ipad_pro_gen_6_12_9_inci_wi-fi_cellular_space_grey_1_1.jpg",
+      "price": 13000000,
+      "description": "This is a Ipad pro",
+      "specification": "16 GB memori terintegrasi \n 128GB Storage \n Full LED Headlights with LED DRL \n Warna luas (P3) \n Rasio kontras 2.000.000:1 \n Kecerahan maks 800 nit  \n Lapisan oleophobic anti sidik jari",
+      "type": "Tablet"
+    },
+    {
+      "name": "Macbook Air",
+      "imgUrl": "https://cdn.eraspace.com/media/catalog/product/m/a/macbook_air_m1_gold_1_1.jpg",
+      "price": 20000000,
+      "description": "This is a Macbook Air",
+      "specification": "8 GB memori terintegrasi \n 256GB Storage \n Full LED Headlights with LED DRL \n Warna luas (P3) \n Rasio kontras 2.000.000:1 \n Kecerahan maks 800 nit  \n Lapisan oleophobic anti sidik jari",
+      "type": "Laptop"
+    },
+    {
+      "name": "Airpod Gen 3",
+      "imgUrl": "https://cdn.eraspace.com/media/catalog/product/a/p/apple_airpods_3rd_generation_with_lightning_charging_case1_1_1.jpg",
+      "price": 2000000,
+      "description": "This is Airpod Gen 3",
+      "specification": "8 GB memori terintegrasi \n 256GB Storage \n Full LED Headlights with LED DRL \n Warna luas (P3) \n Rasio kontras 2.000.000:1 \n Kecerahan maks 800 nit  \n Lapisan oleophobic anti sidik jari",
+      "type": "Headset"
+    }
+  ]
+}
