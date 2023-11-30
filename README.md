@@ -20,6 +20,9 @@ API Used:
 - Nodemailer : to notify user when a transaction is successful
 - Leaflet : to show store location on map
 
+Video showcase:
+https://drive.google.com/file/d/1664I3iPCqYiiEhpApKbP_QWkBHm0BR7l/view?usp=sharing
+
 # Project Snippet:
 
 Log-in:
